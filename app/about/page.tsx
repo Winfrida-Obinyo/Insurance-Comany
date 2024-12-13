@@ -16,7 +16,7 @@ export default function AboutUs() {
                                 Our Goal
                             </h2>
                             <p className="text-white text-lg sm:text-xl max-w-xl">
-                                Helping you protect the life you've worked hard to build, ensuring your achievements and future are secure with the right coverage.
+                                Helping you protect the life you&#39;ve worked hard to build, ensuring your achievements and future are secure with the right coverage.
                             </p>
                         </div>
                     </div>

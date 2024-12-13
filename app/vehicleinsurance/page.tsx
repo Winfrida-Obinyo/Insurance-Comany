@@ -1,6 +1,5 @@
 'use client';
 import { useState, useEffect } from 'react';
-import Image from 'next/image';
 
 const images = [
   '/images/car2.jpg',
@@ -98,7 +97,7 @@ export default function VehicleInsurance() {
         <span className="text-4xl text-[#F08B1E]">🔒</span>
       </div>
       <h3 className="text-xl font-semibold text-[#017970] mb-2">Third-Party Liability</h3>
-      <p className="text-gray-600">Covers damage to others' property and vehicles.</p>
+      <p className="text-gray-600">Covers damage to others&apos; property and vehicles.</p>
     </div>
 
     {/* Collision Coverage */}
@@ -127,11 +126,11 @@ export default function VehicleInsurance() {
         <h2 className="text-3xl font-bold text-[#017970] mb-8">What Our Customers Say</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="bg-white p-6 rounded-lg shadow-md">
-            <p className="text-lg mb-4">"Fantastic service and great coverage! Highly recommend."</p>
+            <p className="text-lg mb-4">Fantastic service and great coverage! Highly recommend.</p>
             <span className="block font-semibold">- John Doe</span>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-md">
-            <p className="text-lg mb-4">"Affordable premiums and excellent customer support."</p>
+            <p className="text-lg mb-4">Affordable premiums and excellent customer support.</p>
             <span className="block font-semibold">- Jane Smith</span>
           </div>
         </div>

@@ -25,7 +25,7 @@ export default function Dedication() {
                     {/* Right Side: Additional Text */}
                     <div className="w-full md:w-1/2 pl-8">
                         <p className="text-lg text-black-700">
-                            We are dedicated to providing outstanding service that goes beyond our customers' expectations.
+                            We are dedicated to providing outstanding service that goes beyond our customers&apos; expectations.
                         </p>
                     </div>
                 </div>
